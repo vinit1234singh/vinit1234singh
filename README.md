@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ORD Combating**
-
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://vinit1234singh.github.io/vinit-portfolio/](https://vinit1234singh.github.io/vinit-portfolio/)
 
 - 💬 Ask me about **PHP + MySql**
 
-- 📫 How to reach me **vinit.vk2573@gmail.com**
+- 📫 How to reach me **vks.iitian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
